@@ -1,4 +1,4 @@
-challenges			Les défis
+﻿challenges			Les défis
 challenges_1		Des défis peuvent être lancés sur n'importe quel autre poireau.
 					Pour en lancer un, rendez-vous sur la page du poireau
 					adverse et cliquez sur le bouton "Défier" situé en haut à droite de sa fiche.
@@ -13,7 +13,7 @@ chips_2				Chaque puce requiert un certain niveau pour pouvoir être utilisée e
 					une portée spécifique et une durée de refroidissement "Cooldown" pour
 					pouvoir être utilisée à nouveau.
 chips_3				Si une puce indique "Protège de 15 de dégâts sur 3 tours", elle protègera
-					de 15 de dégâts sur chacun des 3 tours, le tour durant lequel elle est lancée
+					de 15 de dégâts (pour une résistance nulle) sur chacun des 3 tours, le tour durant lequel elle est lancée
 					et les 2 suivants.
 chips_4				Certaines armes ont une zone d'effets comme pour la puce "Foudre". Le calcul
 					pour les dégâts de zones est linéaire : 100% pour la case centrale et jusqu'à
@@ -82,7 +82,7 @@ fights_15			Ces combats en équipe ne sont pas comptabilisés avec votre nombre 
 					victoires, nuls et défaites (ratio).
 habs				Les Habs
 habs_1				Les Habs <span class='hab'></span> sont la monnaie de Leek Wars, vous en
-					obtenez en réalisant des combats. Les Habs servent ensuite à acheter des
+					obtenez à la fin des combats. Les Habs servent ensuite à acheter des
 					armes et des puces dans le marché, ou des poireaux supplémentaires pour
 					votre élevage.
 intro				Cette page d’aide explique en détails tous les mécanismes du jeu :
@@ -161,7 +161,7 @@ teams_3				Capitaines
 teams_4				Des capitaines peuvent être nommés dans chaque équipe et ont accès à la
 					gestion des compositions de l'équipe. Ils sont distingués par une petite
 					étoile claire devant leurs pseudonymes sur la page de l'équipe. Le créateur
-					de l'équipe a quant à lui une étoile foncée devant son pseudonyme.
+					de l'équipe a, quant à lui une étoile foncée devant son pseudonyme.
 teams_5				Emblème et slogan
 teams_6				Un emblème et un cri de guerre peuvent être associés à l'équipe. Seuls le
 					créateur de l'équipe et ses capitaines ont la possibilité de modifier ces
@@ -218,12 +218,12 @@ weapons_1			Les armes sont utiles pour attaquer d'autres poireaux durant un comb
 					poireau ne peut avoir dans ses mains qu’une seule arme à la fois, mais peut en
 					porter jusqu’à 3 sur lui.
 weapons_2			Chaque arme requiert un certain niveau pour pouvoir être utilisée et a un coût
-					en points de tour. Elle comporte également un pourcentage d'échecs et une
+					en points de tour. Elle possède également une
 					portée spécifique. Ces armes peuvent être achetées en plusieurs exemplaires
 					pour permettre à plusieurs de vos poireaux d'utiliser la même arme en même
 					temps. Par contre, il n'est pas possible d'attaquer avec deux armes en même
 					temps.
-weapons_3			Certaines armes ont une zone d'effets comme pour l'arme "Lance-grenades". Le
+weapons_3			Certaines armes ont une zone d'effet comme l'arme "Lance-grenades". Le
 					calcul pour les dégâts de zones est linéaire : 100% pour la case centrale et
 					jusqu'à 50% pour les cases aux extrémités.
 welcome				Bienvenue sur Leek Wars !
